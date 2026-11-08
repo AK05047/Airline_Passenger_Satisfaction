@@ -15,7 +15,7 @@ Predict whether an airline passenger will be **satisfied** or **neutral/dissatis
 - **Note:** KNN and SVM were trained on a stratified 20,000-row subsample of the training data to keep training time and saved-model size manageable. The other three models use the full training set. All models are evaluated on the full test set.
 
 ## c. GitHub repository link
-`<PASTE YOUR GITHUB REPO LINK HERE>`
+`https://github.com/AK05047/Airline_Passenger_Satisfaction`
 
 Live Streamlit app: `<PASTE YOUR STREAMLIT COMMUNITY CLOUD LINK HERE>`
 
