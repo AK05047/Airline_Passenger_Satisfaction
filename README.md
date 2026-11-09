@@ -17,7 +17,7 @@ Predict whether an airline passenger will be **satisfied** or **neutral/dissatis
 ## c. GitHub repository link
 `https://github.com/AK05047/Airline_Passenger_Satisfaction`
 
-Live Streamlit app: `<PASTE YOUR STREAMLIT COMMUNITY CLOUD LINK HERE>`
+Live Streamlit app: `[<PASTE YOUR STREAMLIT COMMUNITY CLOUD LINK HERE>](https://2026ak05047-airlinepassengersatisfaction.streamlit.app/)`
 
 ## d. Models used
 
